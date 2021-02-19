@@ -1,0 +1,61 @@
+#video{
+    width:100%;
+    height:100%;
+}
+
+
+
+#map{
+    width:100%;
+    height:100%;
+}
+body{
+    text-align: center;
+}
+.image{
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none
+}
+.image img{
+    width: 100%;
+    height: 400px;
+}
+
+.image hr{
+    width: 230px;
+}
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: #ff7700;
+}
+.envoirment_li {
+    margin-top: 13%;
+
+}
+
+.envoirment_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.envoirment_li img {
+    border-radius: 25px;
+}
+
+.envoirment_li p {
+    margin-top: 10px;
+}
